@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/DeanThompson/ginpprof"
+	"github.com/ahuigo/ginpprof"
 )
 
 func main() {
